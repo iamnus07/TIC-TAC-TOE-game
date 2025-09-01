@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe Game
 
-![Tic Tac Toe Banner](./img/banner.png)
+![Tic Tac Toe Banner](./New%20folder/Screenshot%202025-09-01%20121404.png)
 
 A fun and interactive **Tic Tac Toe game** built with **HTML, CSS, and JavaScript**.  
 This project was created as part of my practice in frontend web development and game logic.
