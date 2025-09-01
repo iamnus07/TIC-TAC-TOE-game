@@ -7,6 +7,14 @@ This project was created as part of my practice in frontend web development and 
 
 ---
 
+## 🔗 Live Preview
+
+👉 [Play the Game on Netlify](https://tic-tac-toe-game-by-shuvo.netlify.app/)
+
+_(Replace the above link with your actual Netlify deployed URL)_
+
+---
+
 ## 📌 About the Project
 
 - Classic **two-player game** (Player X vs Player O).
@@ -47,10 +55,10 @@ In real life, this is similar to:
 ## 📂 Project Structure
 
 /
-├── index.html – Game UI
-├── style.css – Styling and layout
-├── script.js – Game logic and interactivity
-├── img/ – Game assets (e.g., banner, icons)
+├── index.html – Game UI  
+├── style.css – Styling and layout  
+├── script.js – Game logic and interactivity  
+├── img/ – Game assets (e.g., banner, icons)  
 └── README.md – Project documentation
 
 ---
@@ -79,12 +87,12 @@ In real life, this is similar to:
 Start playing! 🎉
 
 🎯 Future Improvements
-Add AI opponent mode (play against the computer).
+🤖 Add AI opponent mode (play against the computer).
 
-1. Add scoreboard to track wins.
+🏆 Add scoreboard to track wins.
 
-2. Add sound effects and animations.
+🔊 Add sound effects and animations.
 
-3. Improve mobile responsiveness.
+📱 Improve mobile responsiveness.
 
 ✨ Enjoy playing Tic Tac Toe and happy coding! 🎮
