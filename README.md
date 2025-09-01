@@ -11,8 +11,6 @@ This project was created as part of my practice in frontend web development and 
 
 👉 [Play the Game on Netlify](https://tic-tac-toe-game-by-shuvo.netlify.app/)
 
-_(Replace the above link with your actual Netlify deployed URL)_
-
 ---
 
 ## 📌 About the Project
